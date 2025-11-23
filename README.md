@@ -13,36 +13,36 @@ Sales Bets is a platform where users can bet on business teams achieving milesto
 Core Features
 
 Implemented Features
-User Authentication - Secure login/register with Firebase Auth
+- User Authentication - Secure login/register with Firebase Auth
 
-No-Loss Betting System - Users can only win, never lose credits
+- No-Loss Betting System - Users can only win, never lose credits
 
-Team Management - Browse, follow, and track business teams
+- Team Management - Browse, follow, and track business teams
 
-Live Events - Event streaming with real-time betting
+- Live Events - Event streaming with real-time betting
 
-Modern UI/UX - Beautiful dark/light theme with smooth animations
+- Modern UI/UX - Beautiful dark/light theme with smooth animations
 
-Real-time Updates - Live data sync with Cloud Firestore
+- Real-time Updates - Live data sync with Cloud Firestore
 
-User Profiles - Comprehensive user stats and wallet management
+- User Profiles - Comprehensive user stats and wallet management
 
 Architecture
-Frontend: Flutter with Dart
+- Frontend: Flutter with Dart
 
-Backend: Firebase (Auth, Firestore, Storage)
+- Backend: Firebase (Auth, Firestore, Storage)
 
-State Management: Riverpod
+- State Management: Riverpod
 
-Navigation: Flutter Navigator
+- Navigation: Flutter Navigator
 
 Getting Started
 Prerequisites
-Flutter SDK 3.0+
+- Flutter SDK 3.0+
 
-Firebase Project
+- Firebase Project
 
-VS Code
+- VS Code
 
 Installation
 Clone the repository
@@ -130,16 +130,4 @@ Smooth animations and transitions
 
 Platform-specific design
 
-- Screenshots
-The app features:
-
-Beautiful onboarding experience
-
-Interactive betting interface
-
-Real-time event streaming
-
-Comprehensive user profiles
-
-Team following system
 
